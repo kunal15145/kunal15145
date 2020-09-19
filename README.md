@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=kunal15145&style=plastic&color=red)
 
-![alt text](https://github.com/kunal15145/kunal15145/blob/master/resources/image.jpg?raw=true | width="250" | height="250" )
+![alt text](https://github.com/kunal15145/kunal15145/blob/master/resources/image.jpg?raw=true | width="250")
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6k9c4v9t45csrm26wj1vyvg0n&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
