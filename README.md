@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=kunal15145&style=plastic&color=red)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6k9c4v9t45csrm26wj1vyvg0n&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
-
 <!--
 **kunal15145/kunal15145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
