@@ -24,5 +24,8 @@ kunalSharma.aboutMe({
 1. [slackduler](https://github.com/kunal15145/slackduler)
 2. [gopro](https://github.com/kunal15145/gopro)
 3. [redo](https://github.com/kunal15145/redo)
-4. [r6-readme-stats](https://github.com/kunal15145/r6-readme-stats)
-5. [kunal15145.github.io](https://github.com/kunal15145/kunal15145.github.io)
+4. [gonix](https://github.com/kunal15145/gonix)
+5. [r6-readme-stats](https://github.com/kunal15145/r6-readme-stats)
+6. [kunal15145.github.io](https://github.com/kunal15145/kunal15145.github.io)
+
+Any help on the projects from 1-5 is appreciated
