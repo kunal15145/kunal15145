@@ -30,4 +30,4 @@ kunalSharma.aboutMe({
 
 Any help on the projects from 1-5 is appreciated
 
-Find my gists at [gists](https://gist.github.com/kunal15145/)
+Find my gists [here](https://gist.github.com/kunal15145/)
