@@ -29,3 +29,5 @@ kunalSharma.aboutMe({
 6. [kunal15145.github.io](https://github.com/kunal15145/kunal15145.github.io)
 
 Any help on the projects from 1-5 is appreciated
+
+Find my gists at [gists](https://gist.github.com/kunal15145/)
