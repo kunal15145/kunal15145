@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```python
-class Bio(FullStackDeveloper):
+class Bio(BackEndEngineer):
     def __init__(self, name, title, company):
         self.name = name
         self.title = title
