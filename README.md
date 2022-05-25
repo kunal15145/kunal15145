@@ -6,17 +6,8 @@ class Bio(BackEndEngineer):
         self.name = name
         self.title = title
         self.company = company
-    
-    def aboutMe(self, info):
-        self.info = info
 
-kunalSharma = Bio('Kunal Sharma', 'Software Engineer', 'Elucidata')
-kunalSharma.aboutMe({
-    # These are not empty list will add in sometime 😛
-    'Tools and Technology' : [],
-    'Skills': [],
-    'Hobbies': []
-})
+kunalSharma = Bio('Kunal Sharma', 'Software Development Engineer 1', 'Flipkart')
 ```
 
 ### Currently Ongoing Projects 🚧
